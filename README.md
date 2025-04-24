@@ -72,7 +72,7 @@ Boarden är uppdelad i:
 ## 📦 Tekniker & Verktyg  
 - Python  
 - Pandas  
-- Matplotlib / Seaborn  
+- Matplotlib 
 - Visual Studio Code  
 - Git & GitHub  
 - Trello  
