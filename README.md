@@ -1,6 +1,6 @@
 # 📊 Shoe Prices – Dataanalys och Visualisering  
 **Slutprojekt – Programmering 1, VT 2025**  
-Av: [Ditt namn här]
+Av: Elmer
 
 ---
 
