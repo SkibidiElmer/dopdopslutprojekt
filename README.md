@@ -17,7 +17,7 @@ Detta projekt handlar om att analysera och visualisera ett dataset med skopriser
 
 - Pristrender för olika skotyper
 - Mönster baserat på märke eller kategori
-- Preferenser i olika prisklasser
+- Vilka skor som är trendigast
 - Datasetet är lätt att förstå och ger möjlighet till både enkel och mer avancerad dataanalys och visualisering.
 
 ---
